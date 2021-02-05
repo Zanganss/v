@@ -15,20 +15,20 @@ const speed = require('performance-now');
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'apikey';
-const BotName = 'Lexa';
-const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
+const BotName = 'Zan-Botz';
+const wa = 'Coming Soon';
 const eror = 'Info fitur Error';
-const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
+const ow = 'Zan.Gans';
+const nomorowner = '082291992581';
+const ovo = 'LomPrem🤣';
+const pulsa = '085340827717';
+const dana = 'LomPrem🤣';
+const instagram = 'http://www.instagram.com/zanganzz_';
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
+  + 'FN:Zan.Gans\n' // nama kamu
+  + 'ORG:Zan-Botz;\n' // Nama bot
   + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
